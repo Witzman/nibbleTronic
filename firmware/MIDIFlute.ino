@@ -12,14 +12,13 @@
 // Rotary ENCODER
 #define encoder0PinA 11
 #define encoder0PinB 12
-//#define MIDILEARNMODE_PIN 10
-#define LEARNMIDI_PIN 12
+
 
 //NOTE SWITCHES
-#define NOTE_0_PIN 4
-#define NOTE_1_PIN 3
-#define NOTE_2_PIN 2
-#define NOTE_3_PIN 0
+#define NOTE_0_PIN 0
+#define NOTE_1_PIN 13
+#define NOTE_2_PIN 9
+#define NOTE_3_PIN 7
 
 // the current address in the EEPROM (i.e. which byte we're going to write)
 #define addressjoyX 0
